@@ -1,0 +1,8 @@
+# ESTRUTURAS CONDICIONAIS
+
+"""
+IF : SE
+ELSE : SENÃO
+ELIF : SEN
+"""
+
